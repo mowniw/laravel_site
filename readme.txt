@@ -18,3 +18,8 @@ SELECT id,name,email,password,dob FROM users;
 
 asd1222@sad.com
 123123
+
+
+
+open:
+localhost:8000
